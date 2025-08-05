@@ -356,3 +356,7 @@ browser: [chrome, firefox]
 3. **Inspect page state**: Use browser DevTools
 4. **Check WebDriver logs```
 
+
+### Allure Reporting###
+1. behave -f allure_behave.formatter:AllureFormatter -o reports/ features/
+2.allure sereve reports/
