@@ -1,0 +1,5 @@
+behave==1.2.6
+selenium==4.15.2
+webdriver-manager==3.8.6
+allure-behave==2.15.0
+Faker==20.1.0
